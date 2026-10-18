@@ -1,0 +1,11 @@
+order_id,customer_name,region,product_name,unit_price,quantity,discount_pct,tax_pct
+ORD-1001,Northstar Retail,West,Analytics Starter Kit,250.0,4,10.0,5.0
+ORD-1002,Bluewave Studio,North,Analytics Starter Kit,250.0,5,10.0,5.0
+ORD-1003,Greenfield Foods,South,Data Visualization Pack,180.0,3,0.0,5.0
+ORD-1004,Urban Market Lab,West,Forecasting Toolkit,420.0,3,5.0,12.0
+ORD-1005,Summit Services,East,Analytics Starter Kit,250.0,2,0.0,5.0
+ORD-1006,Coastal Commerce,North,Data Visualization Pack,180.0,6,8.0,5.0
+ORD-1007,Metro Office Co,South,Customer Insights Bundle,320.0,3,12.5,5.0
+ORD-1008,Horizon Learning,East,Forecasting Toolkit,420.0,2,0.0,12.0
+ORD-1009,Cedar Supply Co,West,Customer Insights Bundle,320.0,4,5.0,8.0
+ORD-1010,Brightpath Consulting,North,Workflow Essentials,95.0,8,10.0,5.0
