@@ -1,0 +1,8 @@
+numpy
+pandas 
+openpyxl 
+matplotlib 
+seaborn 
+requests
+ipython
+ipykernel
